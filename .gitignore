@@ -1,0 +1,14 @@
+__pycache__
+*.pyc
+.pytest_cache
+.DS_Store
+.mypy_cache
+.hypothesis
+# following are added for safety.
+venv
+.venv
+env
+.env
+.idea
+*.rdb
+*.ini
